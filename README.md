@@ -1,62 +1,44 @@
-# 👋 Hi, I'm Afkhan Fardeen  
+# Hey, I'm Afkhan Fardeen Khan 👋
 
-💻 Full-Stack Engineer (MERN + Next.js)  
-☁️ Building scalable backend systems & automation tools  
-🧠 Working on AI-integrated production applications  
+I build full-stack applications, mostly working with **React**, **Node.js**, and **MongoDB**. Currently working at an AI-powered EdTech startup where I'm building features that actually ship to production.
 
-Currently contributing to an AI-powered EdTech startup, building full-stack features, backend systems, and scalable APIs.
+I like solving real problems with code — whether that's automating tedious workflows, building APIs that developers actually want to use, or integrating AI in ways that make sense.
 
 ---
 
-## 🚀 Featured Projects
+## Things I've Built
 
-### 🔄 DelyBell Sync  
-Shopify → Logistics automation platform.
+### [DelyBell Sync](https://delybell-sync.vercel.app/)
+Automates order syncing from Shopify to logistics providers. Built the OAuth integration, designed the API, and deployed it to production. Saved a bunch of time on manual order processing.
 
-- OAuth-based Shopify integration  
-- Order sync system (reduces manual processing time)  
-- Node.js backend + API integrations  
-- Built for operational scalability  
+*Node.js, Express, Shopify API*
 
-🔗 https://delybell-sync.vercel.app/
+### [RepoCheck](https://repocheck-v1.vercel.app/)
+Gives GitHub repos a health score based on activity, documentation, and code patterns. Helpful for quickly evaluating open-source projects or your own repos.
 
----
+*Next.js, GitHub API, Tailwind*
 
-### 📊 RepoCheck  
-GitHub repository intelligence tool.
+### [Validate API](https://validate-api.vercel.app/)
+A simple validation API for developers. Validates emails, checks for disposable addresses, and handles structured data. Built it because I kept rewriting the same validation logic.
 
-- GitHub API integration  
-- Repository health scoring  
-- Project quality indicators  
-- Built with Next.js  
-
-🔗 https://repocheck-v1.vercel.app/
+*Node.js, Express*
 
 ---
 
-### 🔎 Validate API  
-Developer-focused validation API.
-
-- RESTful architecture  
-- Email & structured data validation  
-- Production deployment on Vercel  
-
-🔗 https://validate-api.vercel.app/
-
----
-
-## 🛠 Tech Stack
+## What I Work With
 
 **Frontend:** React, Next.js, Tailwind  
-**Backend:** Node.js, Express  
-**Database:** MongoDB  
-**Cloud:** Vercel, Render  
-**Tools:** Git, REST APIs, GitHub Actions  
+**Backend:** Node.js, Express, MongoDB  
+**Tools:** Git, REST APIs, Vercel, Render
+
+Currently exploring AI integration patterns and real-time features with WebSockets.
 
 ---
 
-## 📫 Connect
+## Find Me
 
-🌐 https://fardeen.dev  
-💼 https://www.linkedin.com/in/afkhan-fardeen-khan/  
-📧 afkhan.fardeen@email.com  
+- Portfolio: [fardeen.dev](https://fardeen.dev)
+- LinkedIn: [afkhan-fardeen-khan](https://www.linkedin.com/in/afkhan-fardeen-khan/)
+- Email: afkhan.fardeen@email.com
+
+Always down to chat about projects, tech, or ideas. Feel free to reach out!
