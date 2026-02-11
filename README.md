@@ -1,45 +1,62 @@
-# 👋 Hi, I'm Afkhan Fardeen
+# 👋 Hi, I'm Afkhan Fardeen  
 
-💻 Full-Stack Developer (MERN) | 🎓 BSc IT Graduate  
-☁️ Cloud & Dev Tools Enthusiast | 🚀 Solving real-world problems through code
+💻 Full-Stack Engineer (MERN + Next.js)  
+☁️ Building scalable backend systems & automation tools  
+🧠 Working on AI-integrated production applications  
 
----
-
-## 📌 Featured Projects
-
-### 🔖 [Citemate](https://citemate.netlify.app/)
-> A smart citation generator that supports APA, MLA, and more. Designed to help students cite sources quickly and accurately.
-
-- 📄 Supports multiple citation styles
-- ⚛️ Built with React
-- 🔗 Easy copy-paste and export
+Currently contributing to an AI-powered EdTech startup, building full-stack features, backend systems, and scalable APIs.
 
 ---
 
-### 🎓 [AOU GPA Predictor](https://aougpapredictor.netlify.app/)
-> A GPA forecasting tool tailored for Arab Open University students to plan and predict academic outcomes.
+## 🚀 Featured Projects
 
-- 📊 GPA calculation logic
-- 🔢 Custom credit & grade inputs
-- 🌐 Simple UI for quick use
+### 🔄 DelyBell Sync  
+Shopify → Logistics automation platform.
 
----
+- OAuth-based Shopify integration  
+- Order sync system (reduces manual processing time)  
+- Node.js backend + API integrations  
+- Built for operational scalability  
 
-### 📺 [Advision](https://advision.onrender.com/)
-> University capstone project focused on smart advertising screen systems integrated with backend controls.
-
-- 🧠 Admin dashboard for ad management
-- 📦 Backend with Node.js + MongoDB
-- 💡 Displays ads dynamically based on schedule
+🔗 https://delybell-sync.vercel.app/
 
 ---
 
-## 📫 Connect With Me
+### 📊 RepoCheck  
+GitHub repository intelligence tool.
 
-- 🌐 Portfolio: [https://fardeen.dev/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/afkhan-fardeen-khan/)
-- 📧 Email: afkhan.fardeen@email.com
+- GitHub API integration  
+- Repository health scoring  
+- Project quality indicators  
+- Built with Next.js  
+
+🔗 https://repocheck-v1.vercel.app/
 
 ---
 
-> “Code is the closest thing we have to a superpower.” ⚡
+### 🔎 Validate API  
+Developer-focused validation API.
+
+- RESTful architecture  
+- Email & structured data validation  
+- Production deployment on Vercel  
+
+🔗 https://validate-api.vercel.app/
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React, Next.js, Tailwind  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Cloud:** Vercel, Render  
+**Tools:** Git, REST APIs, GitHub Actions  
+
+---
+
+## 📫 Connect
+
+🌐 https://fardeen.dev  
+💼 https://www.linkedin.com/in/afkhan-fardeen-khan/  
+📧 afkhan.fardeen@email.com  
