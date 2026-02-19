@@ -1,44 +1,81 @@
-# Hey, I'm Afkhan Fardeen Khan 👋
+# Hey, I’m Afkhan Fardeen Khan 👋  
+### Full-Stack Product Engineer | SaaS & AI Systems
 
-I build full-stack applications, mostly working with **React**, **Node.js**, and **MongoDB**. Currently working at an AI-powered EdTech startup where I'm building features that actually ship to production.
+I design and ship production-grade full-stack applications using **React, Node.js, and MongoDB**, with a strong focus on automation, API architecture, and scalable SaaS systems.
 
-I like solving real problems with code — whether that's automating tedious workflows, building APIs that developers actually want to use, or integrating AI in ways that make sense.
+Currently building and shipping production features at an AI-powered EdTech startup.
 
----
-
-## Things I've Built
-
-### [DelyBell Sync](https://delybell-sync.vercel.app/)
-Automates order syncing from Shopify to logistics providers. Built the OAuth integration, designed the API, and deployed it to production. Saved a bunch of time on manual order processing.
-
-*Node.js, Express, Shopify API*
-
-### [RepoCheck](https://repocheck-v1.vercel.app/)
-Gives GitHub repos a health score based on activity, documentation, and code patterns. Helpful for quickly evaluating open-source projects or your own repos.
-
-*Next.js, GitHub API, Tailwind*
-
-### [Validate API](https://validate-api.vercel.app/)
-A simple validation API for developers. Validates emails, checks for disposable addresses, and handles structured data. Built it because I kept rewriting the same validation logic.
-
-*Node.js, Express*
+I specialize in solving real business problems — eliminating manual workflows, designing clean APIs, and integrating AI where it delivers measurable value.
 
 ---
 
-## What I Work With
+## 🚀 Selected Projects
+
+### 🔹 DelyBell Sync  
+**Order automation system syncing Shopify stores with logistics providers**
+
+- Designed and implemented OAuth integration
+- Architected REST API for order synchronization
+- Built production backend with Node.js
+- Eliminated manual order processing workflows
+
+**Tech:** Node.js, Express, Shopify API, MongoDB  
+🔗 https://delybell-sync.vercel.app/
+
+---
+
+### 🔹 RepoCheck  
+**GitHub repository health scoring tool**
+
+- Built full-stack app with real-time GitHub API integration
+- Designed scoring algorithm based on activity and documentation
+- Deployed on Vercel
+
+**Tech:** Next.js, GitHub API, Tailwind  
+🔗 https://repocheck-v1.vercel.app/
+
+---
+
+### 🔹 Validate API  
+**Developer-friendly validation API**
+
+- Email validation (including disposable detection)
+- Structured data validation endpoints
+- Designed RESTful API architecture
+
+**Tech:** Node.js, Express  
+🔗 https://validate-api.vercel.app/
+
+---
+
+## 🧠 Core Expertise
 
 **Frontend:** React, Next.js, Tailwind  
 **Backend:** Node.js, Express, MongoDB  
-**Tools:** Git, REST APIs, Vercel, Render
-
-Currently exploring AI integration patterns and real-time features with WebSockets.
+**Infrastructure:** Vercel, Render  
+**Focus Areas:**  
+- API Design  
+- SaaS Architecture  
+- Automation Systems  
+- AI Integrations  
+- Production Deployment  
 
 ---
 
-## Find Me
+## 📈 Currently Exploring
 
-- Portfolio: [fardeen.dev](https://fardeen.dev)
-- LinkedIn: [afkhan-fardeen-khan](https://www.linkedin.com/in/afkhan-fardeen-khan/)
-- Email: afkhan.fardeen@email.com
+- Advanced AI integration patterns  
+- Real-time systems with WebSockets  
+- Scalable backend architecture  
 
-Always down to chat about projects, tech, or ideas. Feel free to reach out!
+---
+
+## 🌍 Connect With Me
+
+- Portfolio: https://fardeen.dev  
+- LinkedIn: https://www.linkedin.com/in/afkhan-fardeen-khan/  
+- Email: afkhan.fardeen@email.com  
+
+---
+
+Open to remote opportunities and high-impact freelance projects.
